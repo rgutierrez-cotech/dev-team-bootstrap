@@ -4,7 +4,7 @@ A set of documentation to help bootstrap a new development team. Referenced by m
 
 The documents within the `core` folder are all written as templates with placeholders. Documents within the `supplemental` folder were written tailored for my team and will include most of the original text; I have removed and/or generalized terminology that was specific to my team.
 
-The Testing Protocol document is a bit lengthy but includes some helpful appendices for non-developers to aid understanding of some web application concepts. I have tried to simplify the concepts as much as possible. If you feel some concepts could be worded better, feel free to update them in your documents.
+The Testing Protocol document is bit lengthy and verbose but includes some helpful appendices for non-developers to aid understanding of some web application concepts. I have tried to simplify the concepts as much as possible. If you feel some concepts could be worded better, feel free to update them in your documents.
 
 All documents within here will also contain parenthetical comments to clarify something when needed.
 
