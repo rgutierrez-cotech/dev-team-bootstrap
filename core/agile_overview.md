@@ -4,7 +4,7 @@
 
 **Sprint Planning**
 
-Sprint Planning happens a day or two before the end of the current sprint. During Sprint Planning, our team reviews the Backlog and decides on a collection of issues to work on for the next sprint. Ideally, all of our work should be generated from issues in the Backlog and previously-decided-on work for our milestones; these issues should be in the Top of the Backlog. But there are other sources of work that may come up.
+Sprint Planning happens a day or two before the end of the current sprint. During Sprint Planning, our team reviews the Backlog and decides on a collection of issues to work on for the next sprint. Ideally, all of our work should be generated from issues in the Backlog and previously-decided-on work for our milestones; these issues should be in the Top of the Backlog (a custom sprint that we created to hold upcoming work). But there are other sources of work that may come up.
 
 Part of our workload may be carried over from the previous sprint, but this should be avoided. We should plan well enough to finish our work in the allotted time, but things happen and sometimes bugs pop up. This work should be prioritized first.
 
