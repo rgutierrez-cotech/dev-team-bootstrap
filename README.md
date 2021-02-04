@@ -1,6 +1,6 @@
 # Dev Team Bootstrap
 
-A set of documentation to help bootstrap a new development team. Referenced by my blog post here. All documents in here are written in Markdown for increased compatibility.
+A set of documentation to help bootstrap a new development team. Referenced by my blog post [here](https://robert-a-gutierrez.medium.com/bootstrapping-a-new-software-development-team-45e1d62843d). All documents in here are written in Markdown for increased compatibility.
 
 The documents within the `core` folder are all written as templates with placeholders. Documents within the `supplemental` folder were written tailored for my team and will include most of the original text; I have removed and/or generalized terminology that was specific to my team.
 
